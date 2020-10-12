@@ -1,0 +1,3 @@
+Run main.py with python to run, or run main.exe.
+In Util/Face_Detector there is a file called "shape_predictor_68_face_landmarks.dat", this is a predictor file for dlib and was NOT made by me.
+The file can be downloaded from https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat, and can be replaced by alternative predictor files if desired
